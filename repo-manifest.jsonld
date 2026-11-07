@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/relore/commit/06a1c99c4653e9db899a18e96d8ff0ee6b419815",
       "git:hexsha": "06a1c99c4653e9db899a18e96d8ff0ee6b419815",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.3.19"
     },
     {
